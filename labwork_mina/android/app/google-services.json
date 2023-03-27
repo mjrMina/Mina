@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318668604802",
+    "project_id": "labworks-3f1cb",
+    "storage_bucket": "labworks-3f1cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318668604802:android:25486fbe565b1b156ebb9b",
+        "android_client_info": {
+          "package_name": "com.example.labwork_mina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318668604802-cietub2ar12a8n1p9bofh901jtcbr9nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOUZdohgOdw22CqGbzRk5q4CV9o7hxL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318668604802-cietub2ar12a8n1p9bofh901jtcbr9nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
